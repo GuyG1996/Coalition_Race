@@ -1,4 +1,4 @@
-# election-sim
+# Coalition_Race
 ## Project Overview
 This C++ project simulates a race among political parties to form a coalition with 60 or more mandates. The simulation involves agents, each with different norms and ways of action, competing to create a coalition.
 
